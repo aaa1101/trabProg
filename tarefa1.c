@@ -15,7 +15,7 @@ void *trh_Oxigenio();
 
 int main(){
 	int n;
-	printf("Informe o número de sequencias: ");
+	printf("Informe o numero de sequencias: ");
 	scanf("%d", &n);
 
 	if(n <= 0)
